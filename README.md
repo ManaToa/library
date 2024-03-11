@@ -11,7 +11,7 @@ Il a été fait dans le cadre d'un projet de certification FreeCodeCamp.
 ## Fonctionnalités
 
 ### Frontent
-- Un ticket peut être créé en saisisant un titre.
+- Un livre peut être créé en saisisant un titre.
 - Un commentaire peut être ajouté à un livre existant.
 - Un livre peut être supprimé.
 - Tous les livres peuvent être supprimés.
